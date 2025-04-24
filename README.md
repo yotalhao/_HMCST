@@ -16,7 +16,7 @@ HMCS-T is a scalable, hierarchical spinlock designed for modern multi-core and N
 - **Cohort-awareness**: Locks propagate ownership hierarchically, reducing contention.
 
 This implementation includes:
-- A custom header `vsync/hmcstlock.h` defining the protocol logic.
+- A custom header `hmcstlock.h` defining the protocol logic.
 - Debug macros for fine-grained logging (`HMCST_DBG`).
 - Full cycle-accurate timestamping using TSC (`rdtsc`).
 - Robust handling of cycles and abandoned nodes in the MCS queue.
