@@ -1,6 +1,5 @@
 # _HMCST
 Based on the paper: “An Efficient Abortable-locking Protocol for Multi-level NUMA Systems”
-Here's a professional and concise documentation introduction you can include in your GitHub repository's `README.md`:
 
 ---
 
