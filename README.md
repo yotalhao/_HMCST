@@ -29,8 +29,4 @@ This implementation is intended for **educational purposes**, performance benchm
 
 **Youssef Talhaoui**  
 Université Libre de Bruxelles (ULB)  
-Master's Degree in Computer Science – Computational Intelligence & Data Science  
-
----
-
-Let me know if you want to add sections for benchmark results, usage examples, or contribution guidelines!
+Master's Degree in Computer Science   
